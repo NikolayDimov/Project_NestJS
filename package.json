@@ -1,5 +1,5 @@
 {
-  "name": "projetc_nestjs",
+  "name": "project_nestjs",
   "version": "1.0.0",
   "description": "Nest JS",
   "main": "index.js",
@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^10.3.0",
+    "@nestjs/core": "^10.3.0",
+    "@nestjs/platform-express": "^10.3.0",
+    "reflect-metadata": "^0.1.14",
+    "typescript": "^5.3.3"
+  }
 }
